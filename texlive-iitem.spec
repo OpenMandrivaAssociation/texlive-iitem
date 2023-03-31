@@ -1,6 +1,6 @@
 Name:		texlive-iitem
 Version:	29613
-Release:	1
+Release:	2
 Summary:	Multiple level of lists in one list-like environment
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/iitem
