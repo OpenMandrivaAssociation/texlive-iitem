@@ -3,7 +3,7 @@ Version:	29613
 Release:	2
 Summary:	Multiple level of lists in one list-like environment
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/iitem
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/iitem
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/iitem.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/iitem.doc.r%{version}.tar.xz
